@@ -1,0 +1,6 @@
+{
+  "name": "Thodu (తోడు) - Lost-Child Reunification System",
+  "description": "AI-assisted lost-child reunification system for Godavari Pushkaralu 2027 in Rajamahendravaram, Andhra Pradesh.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
