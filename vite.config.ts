@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/thodu-child-safety./',
+    base: '/thodu-child-safety/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
